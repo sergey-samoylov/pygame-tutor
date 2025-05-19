@@ -30,6 +30,10 @@ visual lessons that teach core programming concepts through hands-on fun.
 
 ---
 
+![screenshot pygame-tutor](img/03.png)
+
+---
+
 ## 🚀 Installation
 
 Install via `uv` or regular `pip`:
